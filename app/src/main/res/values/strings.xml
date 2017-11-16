@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Debt Collector</string>
+    <string name="image_logo">image_logo</string>
+    <string name="debt_collector_caps">DEBT COLLECTOR</string>
+    <string name="text_motto">Best debt monitor app.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register_here">Register here.</string>
+</resources>
