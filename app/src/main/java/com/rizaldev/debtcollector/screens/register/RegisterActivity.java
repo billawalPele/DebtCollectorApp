@@ -7,6 +7,8 @@ import com.rizaldev.debtcollector.R;
 
 public class RegisterActivity extends AppCompatActivity {
 
+    String GString = "SUUUUUTOOOOOOOOOOOORIIIIIIIIIIIINNNNNNNNNNNNNNNNGGGGGGGGUUUUUUUUUUUUUUU";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
