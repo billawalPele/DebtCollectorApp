@@ -12,7 +12,7 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".screens.login.LoginActivity"
-            android:theme="@style/AppThemeNoActionBar"></activity>
+            android:theme="@style/AppThemeNoActionBar" />
         <activity
             android:name=".screens.splash.SplashActivity"
             android:theme="@style/AppThemeNoActionBar">
@@ -22,7 +22,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".screens.register.RegisterActivity"></activity>
+        <activity android:name=".screens.register.RegisterActivity" />
+        <activity android:name=".screens.bayar_utang.BayarUtangActivity" />
+        <activity android:name=".screens.chat.ChatActivity" />
+        <activity android:name=".screens.history.HistoryActivity" />
+        <activity android:name=".screens.main.MainActivity" />
+        <activity android:name=".screens.terima_utang.TerimaUtangActivity" />
+        <activity android:name=".screens.utang_baru.UtangBaruActivity"></activity>
     </application>
 
 </manifest>
