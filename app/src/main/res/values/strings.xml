@@ -25,4 +25,6 @@
     <string name="click_here_to_login">Click here to Login</string>
     <string name="lorem_ipsum">lorem ipsum</string>
     <string name="image_other">Image other</string>
+    <string name="input_your_text_here">Input your text here</string>
+    <string name="send">Send</string>
 </resources>
