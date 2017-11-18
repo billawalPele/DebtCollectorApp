@@ -27,4 +27,9 @@
     <string name="image_other">Image other</string>
     <string name="input_your_text_here">Input your text here</string>
     <string name="send">Send</string>
+    <string name="user_picture">user_picture</string>
+    <string name="alamat_user">alamat_user</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="jatuh_tempo">Jatuh Tempo</string>
+    <string name="deskripsi">Deskripsi</string>
 </resources>
