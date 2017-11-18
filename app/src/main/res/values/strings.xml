@@ -23,4 +23,6 @@
     <string name="next">Next</string>
     <string name="already_have_an_account">Already have an account?</string>
     <string name="click_here_to_login">Click here to Login</string>
+    <string name="lorem_ipsum">lorem ipsum</string>
+    <string name="image_other">Image other</string>
 </resources>
